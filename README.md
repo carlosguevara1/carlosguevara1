@@ -1,6 +1,6 @@
 <h1>Welcome! Glad to see you in my github.</h1>
-<h3>Here you will find all related to statistics, econometric packages and codes</h3>.
-<h3>For research, please <a href="https://carlosguevara1.github.io//research/" target="_blank"> my personal site</a> </h3>.
+<p> Here you will find all related to statistics, econometric packages and codes. </p>
+<p> For research, please visit my <a href="https://carlosguevara1.github.io//research/" target="_blank"> my personal site</a>. </p>
 <h3>Languages</h3>
 <table>
   <tr>
